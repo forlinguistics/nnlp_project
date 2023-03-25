@@ -2,7 +2,7 @@
 
 
 HSE neural networks course final project. 
-Проект выполнили Михаил Леонов, Анна Смирнова, Александра Серова и Лыкова Ксения. 
+Проект выполнили Михаил Леонов, Анна Смирнова, Александра Серова и Ксения Лыкова. 
 
 # Датасет и данные
 На основе [датасета](https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset) мы создавали классификатор спойлеров. Датасет состоит из двух файлов: 1) файл с ревью к фильмам с пометками спойлер/не спойлер (IMDB_reviews.json) -- https://drive.google.com/file/d/1UeUSRuT22r1-O6pSKkit5-WiDxIv8lEH/view?usp=sharing и 2) файл с метаинформацией о фильмах (например, саммари сюжета) (IMDB_movie_details.json) -- https://drive.google.com/file/d/1y1c_-2F2cSjJdJG7TBSi98IaGSdjSkOO/view?usp=sharing. Анализ данных и статистику по ним можно найти в первой части загруженного ноутбука 'Bert_spoiler_classification.ipynb'. 
